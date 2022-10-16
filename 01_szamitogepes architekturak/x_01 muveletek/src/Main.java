@@ -1,7 +1,7 @@
 public class Main {
     //muveletek probalgatasa
     public static void main(String[] args) {
-        // muveletek szamokkal
+
         int iop1 =3;
         int iop2 = 2;
 
