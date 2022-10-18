@@ -1,3 +1,10 @@
+// 1. Olvass be két egész számot és írd ki a
+//a. összegüket
+//b. különbségüket
+//c. szorzatukat
+//d. maradékos osztási hányadosukat
+//e. osztási maradékukat
+
 import java.util.Scanner;
 
 public class Main {

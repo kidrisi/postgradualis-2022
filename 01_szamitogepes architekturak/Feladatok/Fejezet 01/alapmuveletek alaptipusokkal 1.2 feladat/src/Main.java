@@ -1,3 +1,5 @@
+//  Olvass be két tört számot és írd ki hogy egyenlőek-e vagy sem.
+
 import java.util.Scanner;
 
 public class Main {
