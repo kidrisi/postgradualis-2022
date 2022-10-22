@@ -17,6 +17,13 @@ public class Main {
         } else {
             System.out.println("  Eltolas >> erteke : " + i1Bineltolas + " " + " Eltolas >>> erteke : " + i2Bineltolas + " " + " << Eltolas erteke : " + i3Bineltolas);
         }
+        
+        //if (i2Egesz < 0 || i2Egesz > 4) {
+        if ((i2Egesz < 0) || (i2Egesz > 4)) {
+            System.out.println(" A feladat nem elvegezheto, a masodik ertek 0- 4 kozott kell legyen");
+        } else
+            System.out.println("  Eltolas >> erteke : " + i1Bineltolas + " " + " Eltolas >>> erteke : " + i2Bineltolas + " " + " << Eltolas erteke : " + i3Bineltolas);
+        }
     }
 }
 
