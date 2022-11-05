@@ -7,8 +7,7 @@ public class Main {
         String sSzo = sc.nextLine().toUpperCase();
         int iSzohossz = sSzo.length();
         for (int i = 0; i < iSzohossz / 2; i++) {
-            int iPalindrom = Integer.parseInt(String.valueOf(String.valueOf(sSzo.charAt(i)).compareTo(String.valueOf(sSzo.charAt(iSzohossz - (i + 1))))));
-            if (iPalindrom > 0 || iPalindrom < 0 ) {
+            if (sSzo.charAt(i) != sSzo.charAt(iSzohossz - (i + 1))) {
                 System.out.println("Ez nem palindrom");
                 break;
             }
