@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bcb0f60a-3086-4be2-b050-709c17a6b0d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Ciklusok 6.1/Ciklusok 6.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ciklusok 6.2/Ciklusok 6.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ciklusok 6.3/Ciklusok 6.3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ciklusok 6.5 feladat/Ciklusok 6.5 feladat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ciklusok 6.6 b/Ciklusok 6.6 b.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ciklusok 6.6 c/Ciklusok 6.6 c.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ciklusok 6.6 feladat/Ciklusok 6.6 feladat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Fuggvenyek 8.1/Fuggvenyek 8.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Logikai fuggvenyek 7.1 feladat/Logikai fuggvenyek 7.1 feladat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Logikai fuggvenyek 7.1/Logikai fuggvenyek 7.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Logikai fuggvenyek 7.3/Logikai fuggvenyek 7.3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Logikai fuggvenyek 7.5 feladat/Logikai fuggvenyek 7.5 feladat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tesztek tombokkel/Tesztek tombokkel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tombik 5.3 feladat/Tombik 5.3 feladat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tombok 5.1 feladat/Tombok 5.1 feladat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tombok 5.3 feladat for ciklussal/Tombok 5.3 feladat for ciklussal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tombok 5.5 feladat/Tombok 5.5 feladat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teszt for ciklusokkal/teszt for ciklusokkal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../teszt/teszt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tombok tesztelese/tombok tesztelese.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HJGhkyRcdZrikr3hesvDqpeoYd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcb0f60a-3086-4be2-b050-709c17a6b0d3" name="Changes" comment="" />
+      <created>1667995895066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667995895066</updated>
+      <workItem from="1667995896691" duration="806000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
