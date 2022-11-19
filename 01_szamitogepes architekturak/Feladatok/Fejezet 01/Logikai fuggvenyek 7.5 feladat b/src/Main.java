@@ -12,9 +12,10 @@ public class Main {
         } else {
             System.out.println("Rossz atalakitas");
 
+        }
     }
-}
-    private static boolean feltetelaFeladatban (boolean a,boolean b,boolean c ){
+
+    private static boolean feltetelaFeladatban(boolean a, boolean b, boolean c) {
         if ((!a && b) || (!b && c) || (a && c) || (!a && !c) || (b && c)) {
             return true;
         } else {
@@ -22,12 +23,12 @@ public class Main {
         }
     }
 
-    private static boolean feltetelAtalakitva (boolean a, boolean b,boolean c){
-        return !a || c ;
+    private static boolean feltetelAtalakitva(boolean a, boolean b, boolean c) {
+        return !a || c;
     }
-
 
 
     private static boolean atalakitasHelyes(boolean a, boolean b, boolean c) {
         return feltetelaFeladatban(a, b, c) == feltetelAtalakitva(a, b, c);
-    }}
+    }
+}
